@@ -1,0 +1,10 @@
+@mixin flexYapisi($hizala,$mesafe){
+    display: flex;
+    flex-wrap: wrap;
+    gap: $mesafe;
+    justify-content: $hizala;
+    align-items: center;
+ 
+ 
+
+}
